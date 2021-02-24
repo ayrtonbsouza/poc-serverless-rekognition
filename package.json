@@ -1,0 +1,10 @@
+{
+  "name": "serverless-image-rekognition",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "author": "Ayrton Souza",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.850.0"
+  }
+}
